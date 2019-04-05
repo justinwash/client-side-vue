@@ -14,4 +14,4 @@ Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps.
 * **axios.js** - Promise based HTTP client for making ajax/http calls.
 
 #### client-side-vue/services
-* **store.service.js** - A (very, extremely) simple state-management service with only three methods, get(), set(), and clear().
+* **store.service.js** - A (very, extremely) simple state-management service with only three methods, `get(key)`, `set(key, value)`, and `clear(key)`.
