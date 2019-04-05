@@ -1,5 +1,5 @@
 # Client-Side Vue.js
-Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps.
+Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps. [Demo](https://client-side-vue.herokuapp.com "Client-Side Vue.js Demo")
 
 #### client-side-vue/
 * **index.html** - The entry-point for your Single Page App. Global dependencies via script tags (Vue, Vue-Router, Http-Vue-Loader, Axios) and a single #App element where the vue instance will be rendered.
