@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+}
+
+a {
+  color: lightgreen;
+}
+
+code {
+  color: pink;
+}
+
+.section {
+		margin-bottom: 40px;
+	}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
