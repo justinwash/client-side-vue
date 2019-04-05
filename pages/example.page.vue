@@ -10,7 +10,7 @@
 				<button v-on:click="increment()">Click Me!</button>
 			</div>
 			<div class="section">
-				<h3>State</h3>This page is reading a store (services/store.service.js) key "myClass" which has the value:
+				<h3>State</h3>This page is reading a store (services/store.service.js) key "myObject" which has the value:
 				<br>
 				<br>
 				<code>{{ storeExample }}</code>
