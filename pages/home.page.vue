@@ -96,7 +96,7 @@
 	.home-page {
 		position: absolute;
 		width: 80%;
-		height: 90%;
+		margin-top: 10vh;
 		margin-left: 10%;
 		display: flex;
 		flex-direction: row;

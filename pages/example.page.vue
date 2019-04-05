@@ -66,11 +66,8 @@
 <style scoped>
 	.example-page {
 		position: absolute;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
 		width: 80%;
-		height: 90%;
+		margin-top: 20vh;
 		margin-left: 10%;
 	}
 
