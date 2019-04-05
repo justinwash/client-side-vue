@@ -95,7 +95,9 @@
 <style scoped>
 	.home-page {
 		position: absolute;
-		width: 100vw;
+		width: 80%;
+		height: 90%;
+		margin-left: 10%;
 		display: flex;
 		flex-direction: row;
 		align-items: center;
@@ -114,5 +116,11 @@
 	p {
 		font-size: 2em;
 		text-align: center;
+	}
+
+	@media (max-width: 960px) {
+		.home-page {
+			flex-direction: column !important;
+		}
 	}
 </style>
