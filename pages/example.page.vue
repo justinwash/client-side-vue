@@ -1,7 +1,6 @@
 <template>
 	<div class="example-page">
 		<div class="example-page-body">
-			<p>{{ greeting }}</p>
 			<div class="section">
 				<h3>Binding</h3>Click button to increment counter. Standard Vue stuff here.
 				<br>
@@ -40,7 +39,6 @@
 	module.exports = {
 		data: function () {
 			return {
-				greeting: 'Examples',
 				storeExample: null,
 				httpResponse: null,
 				counter: 0
