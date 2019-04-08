@@ -3,10 +3,10 @@
 		<main>
 			<p>{{ greeting }}</p>
 			<div class="section">
-				<h3>About</h3>Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps. This two-page site loads about
-				<code>500KB</code> in
-				about
-				<code>300ms</code>.
+				<h3>About</h3>Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps.
+			
+	
+
 			</div>
 			<div class="section">
 				<h3>Breakdown</h3>
