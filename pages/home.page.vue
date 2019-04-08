@@ -4,9 +4,6 @@
 			<p>{{ greeting }}</p>
 			<div class="section">
 				<h3>About</h3>Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps.
-			
-	
-
 			</div>
 			<div class="section">
 				<h3>Breakdown</h3>
@@ -55,7 +52,8 @@
 						target="_blank"
 					>GitHub</a>
 				</li>
-
+				<br>Minified versions of these dependencies (
+				<code>*.min.js</code>) are included for speed/size.
 				<h4>client-side-vue/services</h4>
 				<li>
 					<b>store.service.js</b> - A (very, extremely) simple state-management service with only three methods,
